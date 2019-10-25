@@ -2225,12 +2225,11 @@
       ]
     },
     "System.Collections.NonGeneric/4.3.0": {
-      "sha512": "prtjIEMhGUnQq6RnPEYLpFt8AtLbp9yq2zxOSrY7KJJZrw25Fi97IzBqY7iqssbM61Ek5b8f3MG/sG1N2sN5KA==",
+      "sha512": "LE/oChpRvkSi3U25u0KnJcI44JeDZ1QJCyN4qFDx2uusEypdqR24w7lKYw21eYe5esuCBuc862wRmpF63Yy1KQ==",
       "type": "package",
       "path": "system.collections.nongeneric/4.3.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2487,7 +2486,7 @@
       ]
     },
     "System.ComponentModel.TypeConverter/4.3.0": {
-      "sha512": "16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
+      "sha512": "HZiP0DwTHJ+C+rdFqP47nBYUh5283kcwXIGY2zOVVhsJmVI/2tYiX2zNRdjRQRHsTox58Ydkec6h0pWSh8wAsw==",
       "type": "package",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "files": [
@@ -4789,23 +4788,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Douglas Modesto\\.nuget\\packages\\": {},
+    "C:\\Users\\resource\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.DI\\sprayartsbackend.DI.csproj",
+      "projectUniqueName": "C:\\Users\\resource\\source\\repos\\sprayartsbackend\\sprayartsbackend.DI\\sprayartsbackend.DI.csproj",
       "projectName": "sprayartsbackend.DI",
-      "projectPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.DI\\sprayartsbackend.DI.csproj",
-      "packagesPath": "C:\\Users\\Douglas Modesto\\.nuget\\packages\\",
-      "outputPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.DI\\obj\\",
+      "projectPath": "C:\\Users\\resource\\source\\repos\\sprayartsbackend\\sprayartsbackend.DI\\sprayartsbackend.DI.csproj",
+      "packagesPath": "C:\\Users\\resource\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\resource\\source\\repos\\sprayartsbackend\\sprayartsbackend.DI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Douglas Modesto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\resource\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4818,11 +4817,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sparyartsbackend.Data\\sprayartsbackend.Data.csproj": {
-              "projectPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sparyartsbackend.Data\\sprayartsbackend.Data.csproj"
+            "C:\\Users\\resource\\source\\repos\\sprayartsbackend\\sparyartsbackend.Data\\sprayartsbackend.Data.csproj": {
+              "projectPath": "C:\\Users\\resource\\source\\repos\\sprayartsbackend\\sparyartsbackend.Data\\sprayartsbackend.Data.csproj"
             },
-            "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj": {
-              "projectPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj"
+            "C:\\Users\\resource\\source\\repos\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj": {
+              "projectPath": "C:\\Users\\resource\\source\\repos\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj"
             }
           }
         }

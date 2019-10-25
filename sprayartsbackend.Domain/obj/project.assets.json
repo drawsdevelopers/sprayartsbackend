@@ -686,23 +686,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Douglas Modesto\\.nuget\\packages\\": {},
+    "C:\\Users\\resource\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\resource\\source\\repos\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj",
       "projectName": "sprayartsbackend.Domain",
-      "projectPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj",
-      "packagesPath": "C:\\Users\\Douglas Modesto\\.nuget\\packages\\",
-      "outputPath": "C:\\labs\\sprayarts\\backend\\sprayartsbackend\\sprayartsbackend.Domain\\obj\\",
+      "projectPath": "C:\\Users\\resource\\source\\repos\\sprayartsbackend\\sprayartsbackend.Domain\\sprayartsbackend.Domain.csproj",
+      "packagesPath": "C:\\Users\\resource\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\resource\\source\\repos\\sprayartsbackend\\sprayartsbackend.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Douglas Modesto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\resource\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
